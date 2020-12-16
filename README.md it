@@ -1,0 +1,8 @@
+# RichilDDoS
+Attack DDoS and DoS
+./torshammer.py -t <target> [-r <threads> -p <port> -T -h]
+ -t|--target <Hostname|IP>
+ -r|--threads <Numero de threads> Defaults to 256
+ -p|--port <Porta do Servidor> Defaults to 80
+ -T|--tor Ativa anonimato por meio de tor em 127.0.0.1:9050
+ -h|--help Mostra a Ajuda
