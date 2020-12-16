@@ -1,0 +1,21 @@
+cd RichilDDoS
+$ ls
+LICENSE  richils.py  socks.py  socks.pyc  terminal.py  terminal.pyc
+$ python2 richils.py -t (site ou ip) -r (256) -p (porta)
+
+/*
+ * Richils
+ * Ferramenta de teste slow post Dos
+ * Criado por MRX
+ * Anonimato via Tor
+ * Fri3nds.
+ */
+
+./torshammer.py -t <target> [-r <threads> -p <port> -T -h]
+ -t|--target <Hostname|IP>
+ -r|--threads <Numero de threads> Defaults to 256
+ -p|--port <Porta do Servidor> Defaults to 80
+ -T|--tor Ativa anonimato por meio de tor em 127.0.0.1:9050
+ -h|--help Mostra ajuda
+
+Ex. ./torshammer.py -t 192.168.1.100 -r 256
