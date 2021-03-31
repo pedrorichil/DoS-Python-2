@@ -1,0 +1,2 @@
+# RichilDDoS
+usem com responsabilidade 
