@@ -1,2 +1,2 @@
 # RichilDDoS
-usem com responsabilidade 
+Não me responsabilizo pelo mal uso
