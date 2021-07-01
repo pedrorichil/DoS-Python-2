@@ -5,14 +5,14 @@ It works with the new TOR port 9150
 #### TORS HAMMER HOW TO  
 ----------------------------------------------------
 ```console
-python torshammer.py
+python richils.py
 ```
 You should now see a terminal-based GUI interface.
 **Tor'shammer interface has it's own basic help menu that tells you how to run the script according to your target.**
 
 Example usage:
 ```console
-python torshammer.py -t 192.168.1.100 -r 100000 -T
+python richils.py -t 192.168.1.100 -r 100000 -T
 ```
 - The larger the thread count, the more efficient and effective the attack!!
 - -T adds the Tor function which provides security, as well, as providing a new identity in case the site is
