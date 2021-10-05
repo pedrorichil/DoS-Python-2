@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# feito por menbro da fri3nds
+# feito por menbro da REvil
 # na port 9050. execute com 128 a 256 threads para ser eficaz.
 # mata apache 1.X com ~128, apache 2.X / IIS com ~256
 # nao efetivo em nginx
@@ -173,7 +173,7 @@ if __name__ == "__main__":
     print " * Ferramenta de teste slow post Dos"
     print " * entropy [at] phiral.net"
     print " * Anonimato via Tor"
-    print " * Fri3nds."
+    print " * REvil."
     print " */\n"
 
     main(sys.argv[1:])
